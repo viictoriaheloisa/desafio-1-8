@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f9f5ff; /* lilás bebê */
+    font-family: "Segoe UI", sans-serif;
+    color: #4c3b63;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 40px 20px;
+  }
+  
+  h1 {
+    font-size: 2.2em;
+    margin-bottom: 10px;
+  }
+  
+  #minhaDiv, #novo {
+    margin: 10px 0;
+    font-size: 1.1em;
+  }
+  
+  .button-group {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 30px;
+  }
+  
+  button {
+    background-color: #e6d6f7;
+    color: #4c3b63;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 12px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  button:hover {
+    background-color: #d8c4f0;
+    transform: scale(1.05);
+  }
+  
+  .caixa {
+    width: 200px;
+    height: 100px;
+    margin: 40px auto 0;
+    background-color: rgb(255, 204, 204);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    transition: background-color 0.4s;
+  }
+  
+  .caixa:hover {
+    background-color: #add8e6; /* azul claro */
+  }
+  
