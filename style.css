@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #f9f5ff; /* lilás bebê */
+    background-color: #f9f5ff; 
     font-family: "Segoe UI", sans-serif;
     color: #4c3b63;
   }
@@ -60,6 +60,6 @@ body {
   }
   
   .caixa:hover {
-    background-color: #add8e6; /* azul claro */
+    background-color: #add8e6; 
   }
   
