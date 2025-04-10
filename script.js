@@ -18,7 +18,7 @@ function exemplo1() {
   
   function exemplo5() {
     const caixa = document.getElementById("caixa");
-    caixa.style.backgroundColor = "#add8e6"; // azul claro
+    caixa.style.backgroundColor = "#add8e6";
   }
   
   function exemplo6() {
